@@ -37,6 +37,7 @@ width: 25px;
 .city_name{
     fill:white;
     font-size: 15px;
+	position:relative;
 }
 
 
